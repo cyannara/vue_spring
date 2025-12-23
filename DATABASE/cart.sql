@@ -8,4 +8,4 @@ create table cart (
 insert into cart values( 1, '코드 스프링', 45000, 3);
 insert into cart values( 1, '혼자 자바', 35000, 1);
 
-commit;s
+commit;
